@@ -1,0 +1,9 @@
+Building GVRCoin
+
+See doc/readme-qt.rst for instructions on building GVRCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GVRCoin.
+
+See doc/build-*.txt for instructions on building GVRCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GVRCoin.
